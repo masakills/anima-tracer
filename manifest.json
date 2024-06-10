@@ -4,8 +4,8 @@
   "version": "1.0",
   "description": "Records your last watched episodes in a library",
   "icons": {
-    "48": "anima48.png",
-    "32": "anima32.png"
+    "48": "anima-48.png",
+    "32": "anima-32.png"
   },
   "content_scripts": [
     {
